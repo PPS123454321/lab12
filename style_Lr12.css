@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.startpage{
+    display: inline-flex;
+    padding: 3% 6%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h_and_q{
+    padding-top: 17%;
+}
+
+.h_and_q_b{
+    border: solid black 1px;
+    padding: 20px;
+}
+
+.heading{
+    font-size: 96px;
+    text-align: center;
+}
+
+.quote{
+    font-size: 36px;
+    color: #C3642C;
+    text-align: center;
+}
+
+.photo1{
+    margin-left: 100px;
+}
+
+.page1{
+    display: inline-flex;
+    padding: 3.5% 6%;
+}
+
+.pattern{
+    padding: 0 6%;
+}
+
+.text1{
+    font-size: 36px;
+    padding-top: 8%;
+}
+
+.page2{
+    display: inline-flex;
+    padding: 1.5% 6%;
+}
+
+.text2{
+    font-size: 36px;
+    padding-top: 17%;
+    width: 600px;
+}
+
+.photo3{
+    padding-left: 120px;
+}
+
+.finalpage{
+    display: inline-flex;
+    padding: 2% 6%;
+}
+
+.things4{
+    padding-top: 14%;
+    padding-left: 5%;
+}
+
+.text3{
+    font-size: 36px;
+    border: solid black 1px;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+.references_4{
+    display: inline-flex;
+}
+
+.vk{
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+
+.signature{
+    color: #C3642C;
+    text-align: right;
+    font-size: 18px;
+}
